@@ -8,8 +8,11 @@ class HomePage extends Component {
 
     render() {
         return (
-            <div>
-                <h1>Hello</h1>
+            <div className="home-page">
+                <div className="home-page-pic">
+                    <div className="description">Sell and Buy for Trojans</div>
+                    <button className="btn btn-info btn-lg">Start Today</button>
+                </div>
             </div>
         )
     }
