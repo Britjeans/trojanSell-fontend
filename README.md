@@ -3,13 +3,13 @@ This is the front-end part of an e-commerce website developed under React framew
 
 **prototype**
 
-![image](https://github.com/Britjeans/trojanSell-fontend/raw/master/images/homepage_design.png)
+<img src="https://github.com/Britjeans/trojanSell-fontend/raw/master/images/homepage_design.png" width="00"/>
 
-![image](https://github.com/Britjeans/trojanSell-fontend/raw/master/images/productlist_design.png)
+<img src="https://github.com/Britjeans/trojanSell-fontend/raw/master/images/productlist_design.png" width="400"/>
 
-![image](https://github.com/Britjeans/trojanSell-fontend/raw/master/images/profile_design.png)
+<img src="https://github.com/Britjeans/trojanSell-fontend/raw/master/images/profile_design.png" width="400"/>
 
-![image](https://github.com/Britjeans/trojanSell-fontend/raw/master/images/product_design.png)
+<img src="https://github.com/Britjeans/trojanSell-fontend/raw/master/images/product_design.png" width="400"/>
 
 
 
@@ -17,6 +17,6 @@ This is the front-end part of an e-commerce website developed under React framew
 
 ***
 
-![image](https://github.com/Britjeans/trojanSell-fontend/raw/master/images/homepage.png)
+<img src="https://github.com/Britjeans/trojanSell-fontend/raw/master/images/homepage.png" width="600"/>
 
-More to be added in the future
+More to be added in the future..
