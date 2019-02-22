@@ -6,6 +6,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  min-width: 800px;
 }
 
 code {
@@ -28,4 +29,34 @@ code {
   font-size: 40px;
 }
 
+/* Disover Page */
+.search_filter {
+  position: relative;
+  top: 50px;
+  padding: 40px; 
+}
 
+.search_area {
+  width: 600px;
+  margin: auto;
+
+}
+.search-category {
+  width: 600px;
+  margin: auto;
+}
+
+.search-category ul li {
+  display: inline;
+  margin-left: 16px;
+}
+
+/* product list*/
+.product-list {
+  margin-top: 40px;
+}
+.card {
+  width: 14rem;
+  float: left;
+  margin: 20px;
+}
